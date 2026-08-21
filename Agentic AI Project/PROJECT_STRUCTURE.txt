@@ -1,0 +1,26 @@
+Agentic_AI_Intern_POC/
+├── app.py
+├── requirements.txt
+├── run.bat
+├── .env.example
+├── README.md
+├── agents/
+│   ├── __init__.py
+│   ├── support_agent.py
+│   ├── data_agent.py
+│   └── ml_agent.py
+├── core/
+│   ├── __init__.py
+│   ├── router.py
+│   ├── workflow.py
+│   └── report_generator.py
+├── utils/
+│   ├── __init__.py
+│   ├── data_loader.py
+│   └── metrics.py
+├── config/
+│   ├── __init__.py
+│   └── settings.py
+├── data/
+│   └── Superstore.xlsx
+└── reports/
